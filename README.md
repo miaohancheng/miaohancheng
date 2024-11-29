@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Llama3**
 
-- 📝 I regularly write articles on [miaohancheng.com](miaohancheng.com)
+- 📝 I regularly write articles on [miaohancheng.com](http://www.miaohancheng.com/)
 
 - 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **hanchengmiao@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hanchengmiao/](https://www.linkedin.com/in/hanchengmiao/)
+- 📄 Know about my experiences [linkedin/](https://www.linkedin.com/in/hanchengmiao/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
