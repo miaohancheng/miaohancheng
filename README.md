@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hanchengmiao@gmail.com**
 
-- 📄 Know about my experiences [linkedin/](https://www.linkedin.com/in/hanchengmiao/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/hanchengmiao/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
