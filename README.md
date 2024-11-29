@@ -19,6 +19,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello World](https://miaohancheng.github.io/2024/11/29/hello-world/)
+- [Hello World](https://miaohancheng.github.io/2024/11/29/test/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
