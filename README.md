@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Pysmatch](https://github.com/miaohancheng/pysmatch)
 
-- 🌱 I’m currently learning **Llama3**
+- 🌱 I’m currently learning **DeepseekR1**,**RAG**
 
 - 📝 I regularly write articles on [miaohancheng.com](http://www.miaohancheng.com/)
 
@@ -16,6 +16,8 @@
 - 📫 How to reach me **hanchengmiao@gmail.com**
 
 - 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/hanchengmiao/)
+
+- 🔍 A small political quiz I developed [8Values](https://miaohancheng.com/political-compass/) 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
