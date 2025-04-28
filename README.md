@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [文本大模型rag检索](https://miaohancheng.github.io/2025/04/28/%E6%96%87%E6%9C%AC%E5%A4%A7%E6%A8%A1%E5%9E%8Brag%E6%A3%80%E7%B4%A2/)
 - [巴菲特芒格投资笔记](https://miaohancheng.github.io/2025/03/10/%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%8A%92%E6%A0%BC%E6%8A%95%E8%B5%84%E7%AC%94%E8%AE%B0/)
 - [机器学习+深度学习量化](https://miaohancheng.github.io/2025/03/08/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0+%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%87%8F%E5%8C%96/)
 - [美国绿卡流程记录](https://miaohancheng.github.io/2024/12/01/%E7%BE%8E%E5%9B%BD%E7%BB%BF%E5%8D%A1%E6%B5%81%E7%A8%8B%E8%AE%B0%E5%BD%95/)
-- [多语言NER模型微调](https://miaohancheng.github.io/2024/11/29/%E5%A4%9A%E8%AF%AD%E8%A8%80NER%E6%A8%A1%E5%9E%8B%E5%BE%AE%E8%B0%83/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
