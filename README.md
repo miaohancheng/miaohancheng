@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Pysmatch](https://github.com/miaohancheng/pysmatch)
 
-- 🌱 I’m currently learning **DeepseekR1**,**RAG**
+- 🌱 I’m currently learning **qwen3-a3b**,**langgraph**
 
 - 📝 I regularly write articles on [miaohancheng.com](http://www.miaohancheng.com/)
 
