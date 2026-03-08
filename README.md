@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [个人博客双语改版记录](https://miaohancheng.com/2026/03/08/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%8F%8C%E8%AF%AD%E6%94%B9%E7%89%88%E8%AE%B0%E5%BD%95/)
-- [英伟达dam实测](https://miaohancheng.com/2025/04/28/%E8%8B%B1%E4%BC%9F%E8%BE%BEdam%E5%AE%9E%E6%B5%8B/)
-- [文本大模型rag检索](https://miaohancheng.com/2025/04/28/%E6%96%87%E6%9C%AC%E5%A4%A7%E6%A8%A1%E5%9E%8Brag%E6%A3%80%E7%B4%A2/)
-- [机器学习+深度学习量化](https://miaohancheng.com/2025/03/08/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0+%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%87%8F%E5%8C%96/)
+- [低成本部署OpenClaw记录](https://miaohancheng.com/2026/%E4%BD%8E%E6%88%90%E6%9C%AC%E9%83%A8%E7%BD%B2OpenClaw%E8%AE%B0%E5%BD%95/)
+- [个人博客双语改版记录](https://miaohancheng.com/2026/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%8F%8C%E8%AF%AD%E6%94%B9%E7%89%88%E8%AE%B0%E5%BD%95/)
+- [英伟达dam实测](https://miaohancheng.com/2025/%E8%8B%B1%E4%BC%9F%E8%BE%BEdam%E5%AE%9E%E6%B5%8B/)
+- [文本大模型rag检索](https://miaohancheng.com/2025/%E6%96%87%E6%9C%AC%E5%A4%A7%E6%A8%A1%E5%9E%8Brag%E6%A3%80%E7%B4%A2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
