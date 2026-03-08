@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miaohancheng" alt="miaohancheng" /></a> </p>
 
-- 🔭 I’m currently working on [Pysmatch](https://github.com/miaohancheng/pysmatch)
+- 🔭 I’m currently working on [Pysmatch](https://github.com/miaohancheng/pysmatch) , [llm_stock_report](https://github.com/miaohancheng/llm_stock_report)
 
-- 🌱 I’m currently learning **qwen3-a3b**,**langgraph**
+- 🌱 I’m currently learning **openclaw**,**multiagent**
 
 - 📝 I regularly write articles on [miaohancheng.com](http://www.miaohancheng.com/)
 
