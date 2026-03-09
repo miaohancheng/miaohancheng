@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miaohancheng" alt="miaohancheng" /></a> </p>
 
-- 🔭 I’m currently working on [Pysmatch](https://github.com/miaohancheng/pysmatch)
+- 🔭 I’m currently working on [Pysmatch](https://github.com/miaohancheng/pysmatch) , [llm_stock_report](https://github.com/miaohancheng/llm_stock_report)
 
-- 🌱 I’m currently learning **DeepseekR1**,**RAG**
+- 🌱 I’m currently learning **openclaw**,**multiagent**
 
 - 📝 I regularly write articles on [miaohancheng.com](http://www.miaohancheng.com/)
 
@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [巴菲特芒格投资笔记](https://miaohancheng.github.io/2025/03/10/%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%8A%92%E6%A0%BC%E6%8A%95%E8%B5%84%E7%AC%94%E8%AE%B0/)
-- [机器学习+深度学习量化](https://miaohancheng.github.io/2025/03/08/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0+%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%87%8F%E5%8C%96/)
-- [美国绿卡流程记录](https://miaohancheng.github.io/2024/12/01/%E7%BE%8E%E5%9B%BD%E7%BB%BF%E5%8D%A1%E6%B5%81%E7%A8%8B%E8%AE%B0%E5%BD%95/)
-- [多语言NER模型微调](https://miaohancheng.github.io/2024/11/29/%E5%A4%9A%E8%AF%AD%E8%A8%80NER%E6%A8%A1%E5%9E%8B%E5%BE%AE%E8%B0%83/)
+- [llm_stock_report 使用说明与开发思考](https://miaohancheng.com/2026/llm-stock-report%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B8%8E%E5%BC%80%E5%8F%91%E6%80%9D%E8%80%83/)
+- [低成本部署OpenClaw记录](https://miaohancheng.com/2026/%E4%BD%8E%E6%88%90%E6%9C%AC%E9%83%A8%E7%BD%B2OpenClaw%E8%AE%B0%E5%BD%95/)
+- [个人博客双语改版记录](https://miaohancheng.com/2026/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%8F%8C%E8%AF%AD%E6%94%B9%E7%89%88%E8%AE%B0%E5%BD%95/)
+- [英伟达dam实测](https://miaohancheng.com/2025/%E8%8B%B1%E4%BC%9F%E8%BE%BEdam%E5%AE%9E%E6%B5%8B/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
